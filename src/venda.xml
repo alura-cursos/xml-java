@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xml" href="src/template.xsl"?>
+<venda moeda="real" xsd:noNamespaceSchemaLocation="venda2.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance">
+	<formaDePagamento>Cartao</formaDePagamento>
+	<produtos>
+		<produto>
+			<nome>Livro da casa do código</nome>
+			<preco>59.90</preco>
+		</produto>
+		<produto>
+			<nome>Livro de java</nome>
+			<preco>59.90</preco>
+		</produto>
+	</produtos>
+</venda>

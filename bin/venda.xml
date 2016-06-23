@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<venda>
+	<produto>
+		<nome>Livro da casa do codigo</nome>
+		<preco>59.90</preco>
+	</produto>
+</venda>
